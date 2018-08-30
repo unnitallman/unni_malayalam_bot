@@ -1,1 +1,1 @@
-main: ruby mayavi_bot.rb
+web: ruby mayavi_bot.rb
