@@ -25,15 +25,17 @@ GEM
       coercible (~> 1.0)
       descendants_tracker (~> 0.0, >= 0.0.3)
       equalizer (~> 0.0, >= 0.0.9)
+    wikipedia-client (1.10.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   telegram-bot-ruby
+  wikipedia-client
 
 RUBY VERSION
-   ruby 2.3.4p301
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   1.16.2
+   1.16.5
