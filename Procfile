@@ -1,1 +1,1 @@
-main_worker: ruby mayavi_bot.rb
+main_worker: ruby malayalam_bot.rb
